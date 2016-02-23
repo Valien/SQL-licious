@@ -1,5 +1,5 @@
 
--- Use this script to determine if a user ownes different schemas and to clear them out. Good for maintenance when old uses are removed
+-- Use this script to determine if a user owns different schemas and to clear them out. Good for maintenance when old uses are removed
 -- Allen Vailliencourt
 -- February 23, 2016
 -- Taken from various posts on SO and MSDN
